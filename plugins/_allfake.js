@@ -9,7 +9,7 @@ let img = catalogo
     forwardedNewsletterMessageInfo: {
       newsletterJid: "120363328554424977@newsletter",
       serverMessageId: 100,
-      newsletterName: '✨Twins bots✨💚❤️🩵',
+      newsletterName: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
     },
 	    externalAdReply: {
 				    showAdAttribution: true,
@@ -52,7 +52,7 @@ isForwarded: true,
 forwardedNewsletterMessageInfo: {
 newsletterJid: "120363328554424977@newsletter",
 serverMessageId: 100,
-newsletterName: '✨Twins bots✨💚❤️🩵',
+newsletterName: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
 },
 externalAdReply: { 
 showAdAttribution: true,
@@ -60,7 +60,7 @@ title: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
 body: 'Sofi La Mejor',
 previewType: "PHOTO",
 thumbnailUrl: 'https://i.ibb.co/TPC7NMQ/file.jpg',
-sourceUrl: 'https://www.instagram.com/josssi_bot.ff',
+sourceUrl: 'https://www.instagram.com/frank_perzz',
 mediaType: 1,
 renderLargerThumbnail: false
 },},}
