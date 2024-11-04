@@ -57,7 +57,7 @@ newsletterName: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
 externalAdReply: { 
 showAdAttribution: true,
 title: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
-body: 'Sofi La Mejor',
+body: 'perzz El Mejor',
 previewType: "PHOTO",
 thumbnailUrl: 'https://i.ibb.co/TPC7NMQ/file.jpg',
 sourceUrl: 'https://www.instagram.com/frank_perzz',
