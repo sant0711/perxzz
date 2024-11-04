@@ -13,7 +13,7 @@ let txt = `╭─⬣「 *Xnxx Download* 」⬣\n`
     txt += `│  ≡◦ *🕜 Duración ∙* ${duration}\n`
     txt += `╰─⬣`
 await m.reply(txt)
-await conn.sendFile(m.chat, dl_url, title + '.mp4', `*🍭 Titulo ∙* ${title}\n*🪴 Calidad ∙* ${quality}`, m, false, { asDocument: user.useDocument })
+await conn.sendFile(m.chat, dl_url, title + '.mp4', `*🥷🏻 Titulo ∙* ${title}\n*🪴 Calidad ∙* ${quality}`, m, false, { asDocument: user.useDocument })
 } catch {
 }}
 handler.help = ['xnxxdl <url>']

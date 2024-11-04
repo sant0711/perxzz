@@ -13,7 +13,7 @@ let txt = `╭─⬣「 *Spotify Download* 」⬣\n`
     txt += `│  ≡◦ *📅 Publicado ∙* ${published}\n`
     txt += `╰─⬣`
 await conn.sendFile(m.chat, thumbnail, 'thumbnail.jpg', txt, m)
-await conn.sendFile(m.chat, dl_url, title + '.mp3', `*🍭 Titulo ∙* ${title}\n*🪴 Artista ∙* ${artist}`, m, false, { mimetype: 'audio/mpeg', asDocument: user.useDocument })
+await conn.sendFile(m.chat, dl_url, title + '.mp3', `*🥷🏻 Titulo ∙* ${title}\n*🪴 Artista ∙* ${artist}`, m, false, { mimetype: 'audio/mpeg', asDocument: user.useDocument })
 } catch {
 }}
 handler.help = ['spotify <búsqueda>']

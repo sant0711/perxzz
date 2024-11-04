@@ -18,7 +18,7 @@ let img = catalogo
 					mediaUrl: null,
 					description: null,
 					previewType: "PHOTO",
-					thumbnailUrl: 'https://i.ibb.co/4jft6vs/file.jpg',
+					thumbnailUrl: 'https://i.ibb.co/TPC7NMQ/file.jpg',
 		           sourceUrl: canal,
 		           mediaType: 1,
                    renderLargerThumbnail: false
@@ -59,7 +59,7 @@ showAdAttribution: true,
 title: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
 body: 'Sofi La Mejor',
 previewType: "PHOTO",
-thumbnailUrl: 'https://i.ibb.co/4jft6vs/file.jpg',
+thumbnailUrl: 'https://i.ibb.co/TPC7NMQ/file.jpg',
 sourceUrl: 'https://www.instagram.com/josssi_bot.ff',
 mediaType: 1,
 renderLargerThumbnail: false

@@ -18,7 +18,7 @@ let txt = `╭─⬣「 *YouTube Play* 」⬣\n`
     txt += `│  ≡◦ *⚖ Peso ∙* ${size}\n`
     txt += `╰─⬣`
 await conn.sendFile(m.chat, thumbnail, 'thumbnail.jpg', txt, m)
-await conn.sendFile(m.chat, dl_url, title + '.mp4', `*🍭 Titulo ∙* ${title}\n*🪴 Calidad ∙* ${quality}`, m, false, { asDocument: user.useDocument })
+await conn.sendFile(m.chat, dl_url, title + '.mp4', `*🥷🏻 Titulo ∙* ${title}\n*🪴 Calidad ∙* ${quality}`, m, false, { asDocument: user.useDocument })
 } catch {
 }}
 handler.help = ["play2 <búsqueda>"]

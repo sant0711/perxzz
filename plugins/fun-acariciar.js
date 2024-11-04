@@ -1,4 +1,4 @@
-//Codígo de Sisked
+//Codígo de 𝐏𝐞𝐫𝐳𝐳𝐳
 
 import fs from 'fs';
 import path from 'path';
