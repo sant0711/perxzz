@@ -56,7 +56,7 @@ newsletterName: '✨Twins bots✨💚❤️🩵',
 },
 externalAdReply: { 
 showAdAttribution: true,
-title: '𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻',
+title: '𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳',
 body: 'Sofi La Mejor',
 previewType: "PHOTO",
 thumbnailUrl: 'https://i.ibb.co/4jft6vs/file.jpg',

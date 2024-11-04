@@ -28,7 +28,7 @@ let tags = {
 
 const defaultMenu = {
   before: `
-𝑺𝑶𝑭𝑰 - 𝑩𝑶𝑻
+𝐁𝐨𝐭 𝐕𝐞𝐧𝐭𝐚𝐬𝐏𝐞𝐫𝐳𝐳𝐳
 
 “ hello *%name*, Cómo se encuentra el día de hoy? ”
 
