@@ -22,7 +22,7 @@ if (res) conn.sendFile(m.chat, res, 'tts.opus', null, m, true)
 }}
 handler.help = ['tts <texto>']
 handler.tags = ['tools']
-handler.command = /^g?tts$/i
+handler.command = /^(tts)/i
 //handler.limit = 1
 export default handler
 
